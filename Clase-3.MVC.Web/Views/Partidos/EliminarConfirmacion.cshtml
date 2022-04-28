@@ -1,0 +1,11 @@
+﻿@model PartidosViewModel
+
+<form action="/partidos/eliminar" method="post">
+    
+    <div>
+        Esta seguro que desea eliminar el partido del @Model.Fecha.ToString("dd/MM/yy") en @Model.Lugar a las @Model.Fecha.ToString("hh:mm")hs
+    </div>
+    <input type="hidden" value="@Model.Id" name="Id" />
+    <input type="submit" name="Confirmar" value="Eliminar" />
+    <input type="submit" name="Confirmar" value="Cancelar" />
+</form>
