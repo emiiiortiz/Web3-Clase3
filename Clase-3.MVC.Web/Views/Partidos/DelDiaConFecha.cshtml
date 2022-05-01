@@ -5,7 +5,7 @@
 <form action="/Partidos/DelDiaConFecha" method="post">
     @Html.AntiForgeryToken()
     <div>
-        fecha: <input type="datetime-local" name="Fecha" value="" />
+        fecha: <input type="date" name="Fecha" value="" />
     </div>
 
     <input type="submit" name="DelDiaConFecha" value="DelDiaConFecha" />
