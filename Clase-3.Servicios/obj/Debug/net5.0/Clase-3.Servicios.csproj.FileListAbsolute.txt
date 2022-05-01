@@ -1,0 +1,15 @@
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\bin\Debug\net5.0\Clase-3.Servicios.deps.json
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\bin\Debug\net5.0\Clase-3.Servicios.dll
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\bin\Debug\net5.0\Clase-3.Servicios.pdb
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\bin\Debug\net5.0\Clase-3.Entidades.dll
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\bin\Debug\net5.0\Clase-3.Entidades.pdb
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.csproj.AssemblyReference.cache
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.AssemblyInfoInputs.cache
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.AssemblyInfo.cs
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.csproj.CoreCompileInputs.cache
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.csproj.CopyComplete
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.dll
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\refint\Clase-3.Servicios.dll
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\Clase-3.Servicios.pdb
+C:\Proyectos\WEB 3\Material\Clase-3.MVC.Web\Clase-3.Servicios\obj\Debug\net5.0\ref\Clase-3.Servicios.dll

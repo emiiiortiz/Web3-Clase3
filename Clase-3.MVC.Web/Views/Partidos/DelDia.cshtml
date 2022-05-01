@@ -1,0 +1,27 @@
+﻿@using Clase_3.Entidades
+@model List<PartidoEntity>
+
+@{
+    ViewData["Title"] = "Partidos";
+}
+
+<h1>Partidos Del Dia</h1>
+
+<div>
+    <table>
+        <tr>
+            <td>Fecha</td>
+            <td>Horario</td>
+            <td>Lugar</td>
+        </tr>
+
+        @foreach (var partido in Model)
+        {
+            <tr>
+                <td>@partido.Fecha.ToString("dd/MM/yy")</td>
+                <td>@partido.Fecha.ToString("hh:mm")hs</td>
+                <td>@partido.Lugar</td>
+            </tr>
+        }
+    </table>
+</div>

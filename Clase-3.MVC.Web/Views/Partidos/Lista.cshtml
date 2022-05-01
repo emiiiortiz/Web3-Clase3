@@ -1,4 +1,5 @@
-﻿@model List<PartidosViewModel>
+﻿@using Clase_3.Entidades
+@model List<PartidoEntity>
 @{
     ViewData["Title"] = "Partidos";
 }
@@ -11,7 +12,7 @@
             <td>Fecha</td>
             <td>Horario</td>
             <td>Lugar</td>
-            <td>Eliminar</td>
+            @*<td>Eliminar</td>*@
             <td>Eliminar con confirmacion</td>
         </tr>
 
@@ -21,8 +22,8 @@
                 <td>@partido.Fecha.ToString("dd/MM/yy")</td>
                 <td>@partido.Fecha.ToString("hh:mm")hs</td>
                 <td>@partido.Lugar</td>
-                <td><a href="/partidos/eliminar/@partido.Id">Eliminar</a></td>
-                <td><a href="/partidos/eliminarConfirmacion/@partido.Id">Eliminar con confirmacion</a></td>
+                @*<td><a href="/partidos/eliminar/@partido.Id">Eliminar</a></td>*@
+                <td><a href="/partidos/EliminarSinConfirmacion/@partido.Id">Eliminar con confirmacion</a></td>
             </tr>
         }
     </table>
