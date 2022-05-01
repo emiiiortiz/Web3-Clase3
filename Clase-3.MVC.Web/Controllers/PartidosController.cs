@@ -103,7 +103,6 @@ namespace Clase_3.MVC.Web.Controllers
         {
             try
             {
-                //_partidoService.ObtenerPartidosDelDiaConFecha(colection);
                 return View("DelDia", _partidoService.ObtenerPartidosDelDiaConFecha(colection));
             }
             catch
